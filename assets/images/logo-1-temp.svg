@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="148" height="35" viewBox="0 0 148 35">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        font-size: 25px;
+        fill: #fff;
+        font-family: "Product Sans";
+        font-weight: 700;
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#d7334e"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-1">
+    <image x="7" y="1" width="41" height="33" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAhCAYAAABEM4KbAAADhklEQVRYhbWYX2iXVRjHP/uTKJQ21BvpQpDm5lAzDCXUi3IwExxsGoIsRboQpatugug2kGAgiiBaCREq0VRM6sqCCVKBF7LSSGLTLgyVTPyztc2vPHAGP16f533f37v5hcPvxznnOc/3POf5c86LpOm0rZL+Uz6uSpo3HT2NVMc8oBeYW7DCYuDDaeiZFskNQHeJebOBHuCVqoqqkmwBtgJzSs5vBfZU1FWZ5OvA9jrmvwC8C6ytoqy5goxZcQcwyxk7CQwBT4BJQOm//Y4DY1VINlj01In1wE/OKdwEOoHracxbWIl8XajXkhbRuwM3OQwMJxJ1E8lDvT5pAbDL6b8BnKt6nDNJ0iL5g2DsC+DPGeL0DOohaVbsc/rtiM8D/z8njqV90jbzUTB2Crjs9M9JubExRXh2bBC4BEwUai9ZP9uD6jwsaX0g01dQ03+T9GoZ/WVJnggUHcyRuVpA0vC+pKaZINkqacJRMCKpM5DZXIKg4YqkRTNB8utAwfEcmSslSSpd93KtWUTQfOa+s/BNSZsCGfPRu5l2J1jH8EvRfbOI5PHgqL/NkVmYAq2tptlmV0saCIiaezRUIblM0i1nQevrLhlw2dYj6bGz5kVJzVVIfi5p3Fnw+4oErc3PsebbkVxUcVYAG51k/y9wtDD5xrgLDAAPnRkf15vMj0iazOz0iaTBHCuZTzVmmneEL0s6H1jzTW9tryyuBt5y6vpjoD/Y6zpguXOHNMt9k+m7l6xp99KXMmOfAJvKWPJQsMtfc/xs0JlvJ9EfyLwo6YIjMyrpjaLAWSPpWqCwN1C4V9IjR+ZOIhO5xz4nd5qe00UkPwusOBQoWiDph0Dm04JIny3pZ0fOkv/KiKSZ+fdA4fZA0S5JY8780ZTUi1KSyd/LyFrx+CoKnM1AuxMUfznOb1iYPg54r8ZjwO1Mn33peCddnkfT63G+E2xN6cPDUuCP2sB5LR2ph/cCK2xz0tQUljjz7RKxPzNvPKW2LMZrr4GWZhqALqDDsZY9sM4EVtwWPD++THJZTKbH2khNf3PSn0VzKiatU5bsyLmg7gmuUV05VlyVd1mQdCCQy2JiKvjMEluANmc3tuOzzht6AbAzsKL5rn0cyPviYI+2v3PGp2C+aT7cbma1o7aa/Khmgn0E2J8qRhZLUoX5p+YRZYQtgA4BDwqU/wh8l9zFAiiCrdkCrHsKYqIHUVDb9/IAAAAASUVORK5CYII="/>
+    <text id="DESIGN" class="cls-2" x="53.918" y="27.217">DESIGN</text>
+  </g>
+</svg>

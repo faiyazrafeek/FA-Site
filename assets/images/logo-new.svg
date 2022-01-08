@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <text style="fill: rgb(215, 51, 78); font-family: Arial, sans-serif; font-size: 39.9px; font-weight: 700; white-space: pre;" x="212.464" y="265.46">DESIGN</text>
+  <g id="Layer_2" data-name="Layer 2" transform="matrix(0.090779, 0, 0, 0.090779, 128.943451, 219.558167)" style="">
+    <g id="Layer_2-2" data-name="Layer 2">
+      <polygon class="cls-1" points="0 670.68 329.97 0 498.71 0 558.9 116.08 396.61 117.15 130.05 670.68 0 670.68" style="fill: rgb(215, 51, 78);"/>
+      <polygon class="cls-1" points="619.09 238.61 824.38 670.68 599.74 670.68 550.3 562.13 652.41 562.13 550.3 350.39 418.1 350.39 469.69 238.61 619.09 238.61" style="fill: rgb(215, 51, 78);"/>
+      <polygon class="cls-1" points="485.81 461.47 358.99 461.47 257.95 670.68 388.01 670.68 485.81 461.47" style="fill: rgb(215, 51, 78);"/>
+    </g>
+  </g>
+</svg>
